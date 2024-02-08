@@ -116,6 +116,7 @@
     description: From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible.
 >>>>>>> 687968be3c6404dc4b22aac8a7d5df335c0d485f
 
+<<<<<<< HEAD
 >>>>>>> 355ad81d5cdcfa5142f045999346306097728249
 
 * [datasetFruits](https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification):
@@ -124,3 +125,7 @@
 	veracity: n/a
 	value: knowledge about fruits
 	variety: jpg
+=======
+* [Marvel](https://www.kaggle.com/datasets/monkeybusiness7/marvel-cinematic-universe-box-office)
+	Volume: 8Kb
+>>>>>>> 9536bc9367bde89f07cd3319dc6f88effae51b60
