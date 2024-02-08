@@ -1,4 +1,12 @@
 # datasets
+
+* [dataset2](https://huggingface.co/datasets/amazon_polarity):
+    volume: 1.15 GB
+    velocity: 1/month
+    veracity: Customer feedback
+    value: reviews about amazon products
+    variety: CSV, JSON, XML, HTML and Parquet
+
 * [Mushroom](https://archive.ics.uci.edu/dataset/73/mushroom):
     volume: 400KB
     velocity: Only one time (1987/4/26)
@@ -6,6 +14,7 @@
     variety: DATA and NAMES
     value: Public health risk, avoidal of poisonous mushroom igestion
     description: From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible.
+
 * [dataset][https://datos.gob.es/en/catalogo/l01390759-datos-de-trafico]
 	volume: 15KB
 	velocity: once a year
@@ -38,8 +47,8 @@
 	volume: 7.54MB
 	velocity: n/a
 	veracity: n/a
-	value: knowledge about famous people´s faces
-<<<<<<< HEAD
+	value: knowledge about famous peoples faces
+
 * [Regadíos y usos agrarios](https://datos.gob.es/es/catalogo/ea0043420-regadios-y-usos-agrarios)
     volume: 77.8MB
     velocity: 1/day
@@ -53,9 +62,7 @@
     veracity: n/a
     value: knowledge about flat prices between 1990 and 2021
     variety: csv, xls
-=======
-	variety: jpg
-<<<<<<< HEAD
+
 
 * [dataset_guitar](https://kaggle.com/datasets/arnavsharma45/guitar-chord-fingers-dataset):
 	volume: 1GB
@@ -63,18 +70,14 @@
 	veracity: datos.gob.es
 	value: how to play the guitar
 	variety: csv
-=======
-<<<<<<< HEAD
->>>>>>> 62e07c31686f76fb72b889521b908c168eafad61
-=======
-<<<<<<< HEAD
+
 * [dataset_turism](https://datos.gob.es/es/catalogo/ea0010587-distribucion-del-gasto-turistico-y-gasto-medio-diario-realizado-segun-pais-de-destino-top-anual-gdre-identificador-api-58927):
 	volume: 20 KB
 	velocity: yearly
 	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
 	value: Tourism spending, destination countries, residents, international travel, expenditure distribution
 	variety: csv, xls, xlsx, html, json, PC-Axis
-=======
+
 	
 * [datasetA](https://www.kaggle.com/datasets/cybersimar08/face-recognition-dataset):
 	volume: 7.54MB
@@ -82,7 +85,13 @@
 	veracity: n/a
 	value: knowledge about famous people´s faces
 	variety: jpg
->>>>>>> 8f54e311fac3b95575f328f99d1a096893eca4fb
+
+* [datasetZ](https://huggingface.co/datasets/amazon_polarity):
+    volume: 1.15 GB
+    velocity: 1/month
+    veracity: Customer feedback
+    value: reviews about amazon products
+    variety: CSV, JSON, XML, HTML and Parquet
 
 * [dataset_turism](https://datos.gob.es/es/catalogo/ea0010587-distribucion-del-gasto-turistico-y-gasto-medio-diario-realizado-segun-pais-de-destino-top-anual-gdre-identificador-api-58927):
 	volume: 20 KB
@@ -90,7 +99,7 @@
 	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
 	value: Tourism spending, destination countries, residents, international travel, expenditure distribution
 	variety: csv, xls, xlsx, html, json, PC-Axis
-<<<<<<< HEAD
+
 
 * [datasetFruits](https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification):
 	volume: 15.97MB
@@ -98,8 +107,7 @@
 	veracity: n/a
 	value: knowledge about fruits
 	variety: jpg
-=======
->>>>>>> 90ed556dc6a21e7cb53f4b7de4e387726bef04df
+
 
 * [Mushroom](https://archive.ics.uci.edu/dataset/73/mushroom):
     volume: 400KB
@@ -107,8 +115,8 @@
     veracity : Audobon Society Field Guide, Creative Commons [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
     variety: DATA and NAMES
     value: Public health risk, avoidal of poisonous mushroom igestion
-    description: From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible.
-<<<<<<< HEAD
+    description: From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification
+
 
 * [Inditex](https://datasets/money-company)
     volume: 5GB
@@ -116,11 +124,6 @@
 	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
 	value: Sales and production of inditex companies
 	variety: csv, json, xml
-=======
->>>>>>> 687968be3c6404dc4b22aac8a7d5df335c0d485f
-
-<<<<<<< HEAD
->>>>>>> 355ad81d5cdcfa5142f045999346306097728249
 
 * [datasetFruits](https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification):
 	volume: 15.97MB
@@ -128,15 +131,14 @@
 	veracity: n/a
 	value: knowledge about fruits
 	variety: jpg
-=======
+
 * [Marvel](https://www.kaggle.com/datasets/monkeybusiness7/marvel-cinematic-universe-box-office)
 	Volume: 8Kb
->>>>>>> 9536bc9367bde89f07cd3319dc6f88effae51b60
->>>>>>> 0b369b4a0d919dab7d6c4e64ae00b7f65b384184
 
 * [air_quality_madrid](https://data.europa.eu/data/datasets/https-datos-madrid-es-egob-catalogo-201410-0-calidad-aire-diario?locale=es)
-	* volume: ~300kb/year
-	* velocity: 1/month
-	* veracity: data.europa.eu
-	* value: knowledge about the air quality in Madrid from different stations and dayly information.
-	* variety: csv, plain text, xml
+	volume: ~300kb/year
+	velocity: 1/month
+	veracity: data.europa.eu
+	value: knowledge about the air quality in Madrid from different stations and dayly information.
+	variety: csv, plain text, xml
+
