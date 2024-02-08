@@ -26,6 +26,14 @@
 	veracity: datos.gob.es
 	value: knowledge about social behaviours
 	variety: csv, json, and xml	
+
+* [dataset_alumbrado](https://datos.gob.es/es/catalogo/l01140581-alumbrado-publico):
+	volume: 461 KB
+	velocity: trimestral
+	veracity: datos.gob.es
+	value: Relacion de luminarias de titularidad municipal existentes. Granularidad en nivel luminaria.
+	variety: json, xlsx, csv, xml
+
 * [datasetA](https://www.kaggle.com/datasets/cybersimar08/face-recognition-dataset):
 	volume: 7.54MB
 	velocity: n/a
