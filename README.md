@@ -147,3 +147,10 @@
     veracity: NASA
     value: Awareness of climate change
     variety: csv
+
+* [elecciones](https://datos.comunidad.madrid/catalogo/dataset/datos_electorales_elecciones_autonomicas_comunidad_de_madrid_2023):
+    volume: 587KB
+    velocity: once, during election time
+    veracity: datos.comunidad.madrid
+    value: knowledge about political tendencies and attendance depending on neighbourhoods
+    variety: csv, xml, json
