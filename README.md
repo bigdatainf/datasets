@@ -26,3 +26,10 @@
 	veracity: n/a
 	value: knowledge about famous people´s faces
 	variety: jpg
+
+* [dataset_guitar](https://kaggle.com/datasets/arnavsharma45/guitar-chord-fingers-dataset):
+	volume: 1GB
+	velocity: 1/year
+	veracity: datos.gob.es
+	value: how to play the guitar
+	variety: csv
