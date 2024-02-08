@@ -34,3 +34,10 @@
 	veracity: n/a
 	value: knowledge about famous people´s faces
 	variety: jpg
+
+* [Regadíos y usos agrarios](https://datos.gob.es/es/catalogo/ea0043420-regadios-y-usos-agrarios)
+    volume: 77.8MB
+    velocity: 1/day
+    veracity: datos.gob.es
+    value: knowledge about water usage in agriculture in Spain considered in the hydrological plan.
+    variety: json, xls, xml
