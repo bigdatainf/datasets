@@ -22,7 +22,7 @@
 	value: knowledge about social behaviours
 	variety: csv, json, and xml
 
-*[dataset2](https://app.goflightlabs.com):
+* [dataset2](https://app.goflightlabs.com):
     Volume: Historical global flight data for the previous three months (API)
     veracity: IATA code of any airline
     velocity: Data is being updated every 10 minutes
