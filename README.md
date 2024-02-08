@@ -40,3 +40,10 @@
     veracity: datos.gob.es
     value: knowledge about water usage in agriculture in Spain considered in the hydrological plan.
     variety: json, xls, xml
+
+* [dataset jorge_pastor](https://www.kaggle.com/datasets/denzilg/hdb-flat-prices-19902021-march)
+    volume: 71MB
+    velocity: n/a
+    veracity: n/a
+    value: knowledge about flat prices between 1990 and 2021
+    variety: csv, xls
