@@ -125,3 +125,10 @@
 	Volume: 8Kb
 >>>>>>> 9536bc9367bde89f07cd3319dc6f88effae51b60
 >>>>>>> 0b369b4a0d919dab7d6c4e64ae00b7f65b384184
+
+* [air_quality_madrid](https://data.europa.eu/data/datasets/https-datos-madrid-es-egob-catalogo-201410-0-calidad-aire-diario?locale=es)
+	* volume: ~300kb/year
+	* velocity: 1/month
+	* veracity: data.europa.eu
+	* value: knowledge about the air quality in Madrid from different stations and dayly information.
+	* variety: csv, plain text, xml
