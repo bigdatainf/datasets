@@ -7,7 +7,6 @@
 	value: knowledge about Spain traffic
 	variety CSV, JSON, XML and so forth
 
-<<<<<<< HEAD
 * [dataset_sergio](https:/ejemplo.com)
     volume: 10GB
     velocity: 1/week
