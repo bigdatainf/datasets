@@ -34,6 +34,23 @@
 	veracity: n/a
 	value: knowledge about famous people´s faces
 	variety: jpg
+<<<<<<< HEAD
+* [dataset_turism](https://datos.gob.es/es/catalogo/ea0010587-distribucion-del-gasto-turistico-y-gasto-medio-diario-realizado-segun-pais-de-destino-top-anual-gdre-identificador-api-58927):
+	volume: 20 KB
+	velocity: yearly
+	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
+	value: Tourism spending, destination countries, residents, international travel, expenditure distribution
+	variety: csv, xls, xlsx, html, json, PC-Axis
+=======
+	
+* [datasetA](https://www.kaggle.com/datasets/cybersimar08/face-recognition-dataset):
+	volume: 7.54MB
+	velocity: n/a
+	veracity: n/a
+	value: knowledge about famous people´s faces
+	variety: jpg
+>>>>>>> 8f54e311fac3b95575f328f99d1a096893eca4fb
+
 * [dataset_turism](https://datos.gob.es/es/catalogo/ea0010587-distribucion-del-gasto-turistico-y-gasto-medio-diario-realizado-segun-pais-de-destino-top-anual-gdre-identificador-api-58927):
 	volume: 20 KB
 	velocity: yearly
