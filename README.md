@@ -96,3 +96,10 @@
     variety: DATA and NAMES
     value: Public health risk, avoidal of poisonous mushroom igestion
     description: From Audobon Society Field Guide; mushrooms described in terms of physical characteristics; classification: poisonous or edible.
+
+* [Inditex](https://datasets/money-company)
+    volume: 5GB
+	velocity: 1/day
+	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
+	value: Sales and production of inditex companies
+	variety: csv, json, xml
