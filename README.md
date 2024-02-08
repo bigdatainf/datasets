@@ -57,3 +57,10 @@
 	veracity: [licence](https://www.ine.es/aviso_legal), INEbase data
 	value: Tourism spending, destination countries, residents, international travel, expenditure distribution
 	variety: csv, xls, xlsx, html, json, PC-Axis
+
+* [datasetFruits](https://www.kaggle.com/datasets/alihasnainch/fruits-dataset-for-classification):
+	volume: 15.97MB
+	velocity: n/a
+	veracity: n/a
+	value: knowledge about fruits
+	variety: jpg
