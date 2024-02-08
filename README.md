@@ -33,10 +33,3 @@
 	veracity: n/a
 	value: knowledge about famous people´s faces
 	variety: jpg
-
-* [datasetB](https://www.kaggle.com/datasets/cybersimar08/face-recognition-dataset-2):
-    volume: 7.54MB
-    velocity: n/a
-    veracity: n/a
-    value: knowledge about famous people´s faces
-    variety: jpg
